@@ -1,0 +1,15 @@
+D:\promapirovanie\Lab5Zad1\Lab5Zad1\bin\Debug\net6.0\Lab5Zad1.exe
+D:\promapirovanie\Lab5Zad1\Lab5Zad1\bin\Debug\net6.0\Lab5Zad1.deps.json
+D:\promapirovanie\Lab5Zad1\Lab5Zad1\bin\Debug\net6.0\Lab5Zad1.runtimeconfig.json
+D:\promapirovanie\Lab5Zad1\Lab5Zad1\bin\Debug\net6.0\Lab5Zad1.dll
+D:\promapirovanie\Lab5Zad1\Lab5Zad1\bin\Debug\net6.0\Lab5Zad1.pdb
+D:\promapirovanie\Lab5Zad1\Lab5Zad1\obj\Debug\net6.0\Lab5Zad1.csproj.AssemblyReference.cache
+D:\promapirovanie\Lab5Zad1\Lab5Zad1\obj\Debug\net6.0\Lab5Zad1.GeneratedMSBuildEditorConfig.editorconfig
+D:\promapirovanie\Lab5Zad1\Lab5Zad1\obj\Debug\net6.0\Lab5Zad1.AssemblyInfoInputs.cache
+D:\promapirovanie\Lab5Zad1\Lab5Zad1\obj\Debug\net6.0\Lab5Zad1.AssemblyInfo.cs
+D:\promapirovanie\Lab5Zad1\Lab5Zad1\obj\Debug\net6.0\Lab5Zad1.csproj.CoreCompileInputs.cache
+D:\promapirovanie\Lab5Zad1\Lab5Zad1\obj\Debug\net6.0\Lab5Zad1.dll
+D:\promapirovanie\Lab5Zad1\Lab5Zad1\obj\Debug\net6.0\refint\Lab5Zad1.dll
+D:\promapirovanie\Lab5Zad1\Lab5Zad1\obj\Debug\net6.0\Lab5Zad1.pdb
+D:\promapirovanie\Lab5Zad1\Lab5Zad1\obj\Debug\net6.0\Lab5Zad1.genruntimeconfig.cache
+D:\promapirovanie\Lab5Zad1\Lab5Zad1\obj\Debug\net6.0\ref\Lab5Zad1.dll
